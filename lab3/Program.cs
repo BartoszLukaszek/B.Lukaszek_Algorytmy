@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lab3
+namespace  task_1
 {
     public class Task1
     {
