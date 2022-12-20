@@ -1,0 +1,15 @@
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.csproj.AssemblyReference.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.AssemblyInfoInputs.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.AssemblyInfo.cs
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\bin\Debug\net6.0\lab9.exe
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\bin\Debug\net6.0\lab9.deps.json
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\bin\Debug\net6.0\lab9.runtimeconfig.json
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\bin\Debug\net6.0\lab9.dll
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\bin\Debug\net6.0\lab9.pdb
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.dll
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\refint\lab9.dll
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.pdb
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\lab9.genruntimeconfig.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab9\obj\Debug\net6.0\ref\lab9.dll

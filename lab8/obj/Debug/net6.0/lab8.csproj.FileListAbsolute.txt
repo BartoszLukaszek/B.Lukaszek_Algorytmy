@@ -1,0 +1,15 @@
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\bin\Debug\net6.0\lab8.exe
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\bin\Debug\net6.0\lab8.deps.json
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\bin\Debug\net6.0\lab8.runtimeconfig.json
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\bin\Debug\net6.0\lab8.dll
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\bin\Debug\net6.0\lab8.pdb
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.dll
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\refint\lab8.dll
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.pdb
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\lab8.genruntimeconfig.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab8\obj\Debug\net6.0\ref\lab8.dll
