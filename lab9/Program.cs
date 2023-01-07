@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Bartosz Łukaszek
+
+using System;
 using System.Collections.Generic;
 
 namespace task_6

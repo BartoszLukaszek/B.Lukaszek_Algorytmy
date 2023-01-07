@@ -1,0 +1,5 @@
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab10\obj\Debug\net6.0\lab10.csproj.AssemblyReference.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab10\obj\Debug\net6.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab10\obj\Debug\net6.0\lab10.AssemblyInfoInputs.cache
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab10\obj\Debug\net6.0\lab10.AssemblyInfo.cs
+C:\Users\Barto\OneDrive\Dokumenty\B.Lukaszek_Algorytmy\lab10\obj\Debug\net6.0\lab10.csproj.CoreCompileInputs.cache
